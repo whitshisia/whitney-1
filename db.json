@@ -1,0 +1,22 @@
+{"rooms":[
+    {"id": "1",
+    "name": "JOHN KINUTHIA",
+    "date": "18/07/2024",
+    "time": "20:34",
+    "details": "business room"
+    },
+    {"id": "2",
+      "name": "JANE KINUTHIA",
+      "date": "18/07/2024",
+      "time": "20:34",
+      "details": "VIP room"
+},
+{
+"id": "3",
+      "name": "LAWRENCE KINUTHIA",
+      "date": "18/07/2024",
+      "time": "20:34",
+      "details": "business room"
+}
+]
+}
